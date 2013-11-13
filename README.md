@@ -11,11 +11,13 @@ friendly,99.9% online guarantee,Easy to integrate with well written document.Als
 details of the same API,and added other sites without the batch processing function.If you want to experience it, 
 right now, please go to http://www.page2images.com/
 
+
     batch facility:
     Convert url to full size image or thumbnail in batch.Basic user a batch conversion up to 50 sites,If it is 
 a advanced users, so one can batch convert more web site, can enjoy more better service. Capture webpages/websites 
 screenshot from their URLs inbatch.Make images of web pages (convert web pages to images) in batch.If you want 
 to experience it, please go to http://www.page2images.com/free_convert_website_url_to_images_in_batch
+
 
     API introduction:
     We provide a set of complete details of the same API,It not only has three different implementations (restAPi,
