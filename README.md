@@ -1,5 +1,5 @@
                                              
-                                              page2Images project profile
+                                             page2Images project profile
                                               
     Here is the part of the page2Image project source code, you can download study and research.
     
@@ -27,10 +27,14 @@ API, please go to  http://www.page2images.com/website_thumbnail_api_document.
 
    restApi API introduction:
    Send request using any HTTP client in any programming language to get screenshots of one URL. Fastest and most 
-powerful method for advanced users. If you want to learn how to use the restAPI, please go to http://www.page2images.com/api_document/REST_Web_Service_Interface
+powerful method for advanced users. If you want to learn how to use the restAPI, please go to http://www.page2images.com/api_document/REST_Web_Service_Interface.
+
+
    javascriptApi API introduction:
    Send request and display screenshot using <IMG> tag of HTML. Easiest way for who does not know programming language.
-If you want to learn how to use the javascriptAPI, please go to http://www.page2images.com/api_document/Create_Website_Thumbnail_with_Javascript_API
+If you want to learn how to use the javascriptAPI, please go to http://www.page2images.com/api_document/Create_Website_Thumbnail_with_Javascript_API.
+
+
    imgApi API introduction:
    Send request and display screenshot using our Javascript code.It will show the loading progress while we are
 processing your request. For whom want to save time on the front end coding. If you want to learn how to use the 
